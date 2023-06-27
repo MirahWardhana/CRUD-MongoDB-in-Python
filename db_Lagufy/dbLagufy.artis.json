@@ -1,0 +1,480 @@
+[{
+  "_id": 101,
+  "name": "Ed Sheeran",
+  "genre": "Pop",
+  "albums": [
+    201,
+    202,
+    203
+  ],
+  "songs": [
+    301,
+    302,
+    303
+  ],
+  "followers": 1000000
+},
+{
+  "_id": 102,
+  "name": "Taylor Swift",
+  "genre": "Pop",
+  "albums": [
+    204,
+    205,
+    206
+  ],
+  "songs": [
+    304,
+    305,
+    306
+  ],
+  "followers": 1200000
+},
+{
+  "_id": 103,
+  "name": "Coldplay",
+  "genre": "Alternative",
+  "albums": [
+    207,
+    208,
+    209
+  ],
+  "songs": [
+    307,
+    308,
+    309
+  ],
+  "followers": 2000000
+},
+{
+  "_id": 104,
+  "name": "Bruno Mars",
+  "genre": "Pop",
+  "albums": [
+    210,
+    211,
+    212
+  ],
+  "songs": [
+    310,
+    311,
+    312
+  ],
+  "followers": 1200000
+},
+{
+  "_id": 105,
+  "name": "Iwan Fals",
+  "genre": "Pop",
+  "albums": [
+    213,
+    214,
+    215
+  ],
+  "songs": [
+    313,
+    314,
+    315
+  ],
+  "followers": 1000000
+},
+{
+  "_id": 106,
+  "name": "Rihanna",
+  "genre": "R&B",
+  "albums": [
+    216,
+    217,
+    218
+  ],
+  "songs": [
+    316,
+    317,
+    318
+  ],
+  "followers": 1600000
+},
+{
+  "_id": 107,
+  "name": "Anggun",
+  "genre": "Pop",
+  "albums": [
+    219,
+    220,
+    221
+  ],
+  "songs": [
+    319,
+    320,
+    321
+  ],
+  "followers": 900000
+},
+{
+  "_id": 108,
+  "name": "Maroon 5",
+  "genre": "Pop",
+  "albums": [
+    222,
+    223,
+    224
+  ],
+  "songs": [
+    322,
+    323,
+    324
+  ],
+  "followers": 1300000
+},
+{
+  "_id": 109,
+  "name": "Ari Lasso",
+  "genre": "Pop",
+  "albums": [
+    225,
+    226,
+    227
+  ],
+  "songs": [
+    325,
+    326,
+    327
+  ],
+  "followers": 800000
+},
+{
+  "_id": 110,
+  "name": "Sam Smith",
+  "genre": "Pop",
+  "albums": [
+    228,
+    229,
+    230
+  ],
+  "songs": [
+    328,
+    329,
+    330
+  ],
+  "followers": 1400000
+},
+{
+  "_id": 111,
+  "name": "Drake",
+  "genre": "Hip Hop",
+  "albums": [
+    231,
+    232,
+    233
+  ],
+  "songs": [
+    331,
+    332,
+    333
+  ],
+  "followers": 6000000
+},
+{
+  "_id": 112,
+  "name": "Raisa",
+  "genre": "Pop",
+  "albums": [
+    234,
+    235,
+    236
+  ],
+  "songs": [
+    334,
+    335,
+    336
+  ],
+  "followers": 3000000
+},
+{
+  "_id": 113,
+  "name": "The Weeknd",
+  "genre": "R&B",
+  "albums": [
+    237,
+    238,
+    239
+  ],
+  "songs": [
+    337,
+    338,
+    339
+  ],
+  "followers": 7000000
+},
+{
+  "_id": 114,
+  "name": "Virgoun",
+  "genre": "Pop",
+  "albums": [
+    240,
+    241,
+    242
+  ],
+  "songs": [
+    340,
+    341,
+    342
+  ],
+  "followers": 2000000
+},
+{
+  "_id": 115,
+  "name": "Harry Styles",
+  "genre": "Pop",
+  "albums": [
+    243,
+    244,
+    245
+  ],
+  "songs": [
+    343,
+    344,
+    345
+  ],
+  "followers": 5000000
+},
+{
+  "_id": 116,
+  "name": "Tulus",
+  "genre": "Pop",
+  "albums": [
+    246,
+    247,
+    248
+  ],
+  "songs": [
+    346,
+    347,
+    348
+  ],
+  "followers": 4000000
+},
+{
+  "_id": 117,
+  "name": "EXO",
+  "genre": "K-pop",
+  "albums": [
+    249,
+    250,
+    251
+  ],
+  "songs": [
+    349,
+    350,
+    351
+  ],
+  "followers": 3000000
+},
+{
+  "_id": 118,
+  "name": "Kunto Aji",
+  "genre": "Pop",
+  "albums": [
+    252,
+    253,
+    254
+  ],
+  "songs": [
+    352,
+    353,
+    354
+  ],
+  "followers": 1500000
+},
+{
+  "_id": 119,
+  "name": "Ariana Grande",
+  "genre": "Pop",
+  "albums": [
+    255,
+    256,
+    257
+  ],
+  "songs": [
+    355,
+    356,
+    357
+  ],
+  "followers": 9000000
+},
+{
+  "_id": 120,
+  "name": "Taylor Swift",
+  "genre": "Pop",
+  "albums": [
+    258,
+    259,
+    260
+  ],
+  "songs": [
+    358,
+    359,
+    360
+  ],
+  "followers": 8000000
+},
+{
+  "_id": 121,
+  "name": "Ed Sheeran",
+  "genre": "Pop",
+  "albums": [
+    261,
+    262,
+    263
+  ],
+  "songs": [
+    361,
+    362,
+    363
+  ],
+  "followers": 10000000
+},
+{
+  "_id": 122,
+  "name": "Dua Lipa",
+  "genre": "Pop",
+  "albums": [
+    264,
+    265,
+    266
+  ],
+  "songs": [
+    364,
+    365,
+    366
+  ],
+  "followers": 5000000
+},
+{
+  "_id": 123,
+  "name": "Rizky Febian",
+  "genre": "Pop",
+  "albums": [
+    267,
+    268,
+    269
+  ],
+  "songs": [
+    367,
+    368,
+    369
+  ],
+  "followers": 2000000
+},
+{
+  "_id": 124,
+  "name": "Lorde",
+  "genre": "Pop",
+  "albums": [
+    270,
+    271,
+    272
+  ],
+  "songs": [
+    370,
+    371,
+    372
+  ],
+  "followers": 3000000
+},
+{
+  "_id": 125,
+  "name": "Ran",
+  "genre": "Pop",
+  "albums": [
+    273,
+    274,
+    275
+  ],
+  "songs": [
+    373,
+    374,
+    375
+  ],
+  "followers": 1000000
+},
+{
+  "_id": 126,
+  "name": "SZA",
+  "genre": "R&B",
+  "albums": [
+    276,
+    277,
+    278
+  ],
+  "songs": [
+    376,
+    377,
+    378
+  ],
+  "followers": 2000000
+},
+{
+  "_id": 127,
+  "name": "Raisa Andriana",
+  "genre": "Pop",
+  "albums": [
+    279,
+    280,
+    281
+  ],
+  "songs": [
+    379,
+    380,
+    381
+  ],
+  "followers": 4000000
+},
+{
+  "_id": 128,
+  "name": "Jonas Brothers",
+  "genre": "Pop",
+  "albums": [
+    282,
+    283,
+    284
+  ],
+  "songs": [
+    382,
+    383,
+    384
+  ],
+  "followers": 6000000
+},
+{
+  "_id": 129,
+  "name": "RAN",
+  "genre": "Pop",
+  "albums": [
+    285,
+    286,
+    287
+  ],
+  "songs": [
+    385,
+    386,
+    387
+  ],
+  "followers": 1500000
+},
+{
+  "_id": 130,
+  "name": "Camila Cabello",
+  "genre": "Pop",
+  "albums": [
+    288,
+    289,
+    290
+  ],
+  "songs": [
+    388,
+    389,
+    390
+  ],
+  "followers": 7000000
+}]

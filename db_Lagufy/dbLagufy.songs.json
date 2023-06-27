@@ -1,0 +1,510 @@
+[{
+  "_id": 308,
+  "title": "Yellow",
+  "artist_id": 103,
+  "album_id": 208,
+  "duration": 260,
+  "release_date": {
+    "$date": "2012-03-20T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    405,
+    402
+  ]
+},
+{
+  "_id": 309,
+  "title": "My Universe",
+  "artist_id": 103,
+  "album_id": 209,
+  "duration": 260,
+  "release_date": {
+    "$date": "2015-09-20T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    402,
+    404
+  ]
+},
+{
+  "_id": 310,
+  "title": "That's What I Like",
+  "artist_id": 104,
+  "album_id": 210,
+  "duration": 260,
+  "release_date": {
+    "$date": "2016-04-08T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    401,
+    403
+  ]
+},
+{
+  "_id": 311,
+  "title": "Versace On The Floor",
+  "artist_id": 104,
+  "album_id": 211,
+  "duration": 290,
+  "release_date": {
+    "$date": "2016-04-08T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    405,
+    402
+  ]
+},
+{
+  "_id": 312,
+  "title": "Grenade",
+  "artist_id": 104,
+  "album_id": 212,
+  "duration": 310,
+  "release_date": {
+    "$date": "2017-10-09T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    401,
+    402
+  ]
+},
+{
+  "_id": 313,
+  "title": "Bongkar",
+  "artist_id": 105,
+  "album_id": 213,
+  "duration": 320,
+  "release_date": {
+    "$date": "2012-11-19T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    403,
+    405
+  ]
+},
+{
+  "_id": 314,
+  "title": "Yang Terlupakan",
+  "artist_id": 105,
+  "album_id": 214,
+  "duration": 210,
+  "release_date": {
+    "$date": "2017-10-09T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    404,
+    402
+  ]
+},
+{
+  "_id": 315,
+  "title": "Bento",
+  "artist_id": 105,
+  "album_id": 215,
+  "duration": 340,
+  "release_date": {
+    "$date": "2014-01-20T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    401,
+    404
+  ]
+},
+{
+  "_id": 316,
+  "title": "Diamonds",
+  "artist_id": 106,
+  "album_id": 216,
+  "duration": 240,
+  "release_date": {
+    "$date": "2012-01-20T00:00:00.000Z"
+  },
+  "genres": [
+    "R&B"
+  ],
+  "playlists": [
+    404,
+    405
+  ]
+},
+{
+  "_id": 317,
+  "title": "Love on The Brain",
+  "artist_id": 106,
+  "album_id": 217,
+  "duration": 260,
+  "release_date": {
+    "$date": "2016-01-20T00:00:00.000Z"
+  },
+  "genres": [
+    "R&B"
+  ],
+  "playlists": [
+    403,
+    402
+  ]
+},
+{
+  "_id": 318,
+  "title": "Diamonds",
+  "artist_id": 106,
+  "album_id": 218,
+  "duration": 240,
+  "release_date": {
+    "$date": "2012-01-20T00:00:00.000Z"
+  },
+  "genres": [
+    "R&B"
+  ],
+  "playlists": [
+    402,
+    403
+  ]
+},
+{
+  "_id": 319,
+  "title": "Tua Tua Keladi",
+  "artist_id": 107,
+  "album_id": 219,
+  "duration": 250,
+  "release_date": {
+    "$date": "1990-03-21T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    402,
+    404
+  ]
+},
+{
+  "_id": 320,
+  "title": "Mimpi",
+  "artist_id": 107,
+  "album_id": 220,
+  "duration": 350,
+  "release_date": {
+    "$date": "1995-02-11T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    401,
+    403
+  ]
+},
+{
+  "_id": 321,
+  "title": "Snow on the Sahara",
+  "artist_id": 107,
+  "album_id": 221,
+  "duration": 320,
+  "release_date": {
+    "$date": "2012-06-07T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    404,
+    405
+  ]
+},
+{
+  "_id": 322,
+  "title": "Memories",
+  "artist_id": 108,
+  "album_id": 222,
+  "duration": 310,
+  "release_date": {
+    "$date": "2021-01-20T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    402,
+    403
+  ]
+},
+{
+  "_id": 323,
+  "title": "Girls Like You",
+  "artist_id": 108,
+  "album_id": 223,
+  "duration": 360,
+  "release_date": {
+    "$date": "2017-11-10T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    401,
+    402
+  ]
+},
+{
+  "_id": 324,
+  "title": "Payphone",
+  "artist_id": 108,
+  "album_id": 224,
+  "duration": 320,
+  "release_date": {
+    "$date": "2012-03-12T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    403,
+    404
+  ]
+},
+{
+  "_id": 325,
+  "title": "Pupus",
+  "artist_id": 109,
+  "album_id": 225,
+  "duration": 320,
+  "release_date": {
+    "$date": "2002-04-24T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    402,
+    405
+  ]
+},
+{
+  "_id": 326,
+  "title": "Separuh Nafas",
+  "artist_id": 109,
+  "album_id": 226,
+  "duration": 390,
+  "release_date": {
+    "$date": "2000-07-14T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    402,
+    403
+  ]
+},
+{
+  "_id": 327,
+  "title": "Aku Milikmu",
+  "artist_id": 109,
+  "album_id": 227,
+  "duration": 320,
+  "release_date": {
+    "$date": "1994-05-25T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    401,
+    404
+  ]
+},
+{
+  "_id": 328,
+  "title": "Stay With Me",
+  "artist_id": 110,
+  "album_id": 228,
+  "duration": 310,
+  "release_date": {
+    "$date": "2014-03-09T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    401,
+    402
+  ]
+},
+{
+  "_id": 329,
+  "title": "Like I Can",
+  "artist_id": 110,
+  "album_id": 229,
+  "duration": 340,
+  "release_date": {
+    "$date": "2014-10-09T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    403,
+    404
+  ]
+},
+{
+  "_id": 330,
+  "title": "How Do You Sleep?",
+  "artist_id": 110,
+  "album_id": 230,
+  "duration": 370,
+  "release_date": {
+    "$date": "2017-12-19T00:00:00.000Z"
+  },
+  "genres": [
+    "POP"
+  ],
+  "playlists": [
+    402,
+    405
+  ]
+},
+{
+  "_id": 301,
+  "title": "Shape of You",
+  "artist_id": 101,
+  "album_id": 201,
+  "duration": 240,
+  "release_date": {
+    "$date": "2019-08-10T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    401,
+    402
+  ]
+},
+{
+  "_id": 302,
+  "title": "Castle on the Hill",
+  "artist_id": 101,
+  "album_id": 202,
+  "duration": 300,
+  "release_date": {
+    "$date": "2020-07-15T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    402,
+    403
+  ]
+},
+{
+  "_id": 303,
+  "title": "perfect",
+  "artist_id": 101,
+  "album_id": 203,
+  "duration": 280,
+  "release_date": {
+    "$date": "2021-06-20T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    404,
+    405
+  ]
+},
+{
+  "_id": 304,
+  "title": "You Belong With Me",
+  "artist_id": 102,
+  "album_id": 204,
+  "duration": 260,
+  "release_date": {
+    "$date": "2015-06-20T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    402,
+    403
+  ]
+},
+{
+  "_id": 305,
+  "title": "Are You Ready For It?",
+  "artist_id": 102,
+  "album_id": 205,
+  "duration": 260,
+  "release_date": {
+    "$date": "2018-07-20T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    405,
+    402
+  ]
+},
+{
+  "_id": 306,
+  "title": "Cruel Summer",
+  "artist_id": 102,
+  "album_id": 206,
+  "duration": 290,
+  "release_date": {
+    "$date": "2021-01-11T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    401,
+    403
+  ]
+},
+{
+  "_id": 307,
+  "title": "Viva La Vida",
+  "artist_id": 103,
+  "album_id": 207,
+  "duration": 290,
+  "release_date": {
+    "$date": "2009-02-10T00:00:00.000Z"
+  },
+  "genres": [
+    "Pop"
+  ],
+  "playlists": [
+    402,
+    403
+  ]
+}]

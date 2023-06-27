@@ -1,0 +1,360 @@
+[{
+  "_id": 201,
+  "title": "Divide",
+  "artist_id": 101,
+  "release_date": {
+    "$date": "2019-08-10T00:00:00.000Z"
+  },
+  "songs": [
+    301
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 202,
+  "title": "Equals",
+  "artist_id": 101,
+  "release_date": {
+    "$date": "2020-07-15T00:00:00.000Z"
+  },
+  "songs": [
+    302
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 203,
+  "title": "Subtract",
+  "artist_id": 101,
+  "release_date": {
+    "$date": "2021-06-20T00:00:00.000Z"
+  },
+  "songs": [
+    303
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 204,
+  "title": "Fearless",
+  "artist_id": 102,
+  "release_date": {
+    "$date": "2008-11-11T00:00:00.000Z"
+  },
+  "songs": [
+    304
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 205,
+  "title": "Reputation",
+  "artist_id": 102,
+  "release_date": {
+    "$date": "2018-07-20T00:00:00.000Z"
+  },
+  "songs": [
+    305
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 206,
+  "title": "Lover",
+  "artist_id": 102,
+  "release_date": {
+    "$date": "2021-01-11T00:00:00.000Z"
+  },
+  "songs": [
+    306
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 207,
+  "title": "X&Y",
+  "artist_id": 103,
+  "release_date": {
+    "$date": "2009-02-10T00:00:00.000Z"
+  },
+  "songs": [
+    307
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 208,
+  "title": "Parachutes",
+  "artist_id": 103,
+  "release_date": {
+    "$date": "2012-03-20T00:00:00.000Z"
+  },
+  "songs": [
+    308
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 209,
+  "title": "Music of the Spheres",
+  "artist_id": 103,
+  "release_date": {
+    "$date": "2015-09-20T00:00:00.000Z"
+  },
+  "songs": [
+    309
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 210,
+  "title": "24K Magic",
+  "artist_id": 104,
+  "release_date": {
+    "$date": "2016-04-08T00:00:00.000Z"
+  },
+  "songs": [
+    310
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 211,
+  "title": "An Evening With Silk Sonic",
+  "artist_id": 104,
+  "release_date": {
+    "$date": "2016-04-08T00:00:00.000Z"
+  },
+  "songs": [
+    311
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 212,
+  "title": "Do Woops & Hooligans",
+  "artist_id": 104,
+  "release_date": {
+    "$date": "2017-10-09T00:00:00.000Z"
+  },
+  "songs": [
+    312
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 213,
+  "title": "Wakil Rakyat",
+  "artist_id": 105,
+  "release_date": {
+    "$date": "2012-11-19T00:00:00.000Z"
+  },
+  "songs": [
+    313
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 214,
+  "title": "Celoteh-celoteh",
+  "artist_id": 105,
+  "release_date": {
+    "$date": "2012-11-19T00:00:00.000Z"
+  },
+  "songs": [
+    314
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 215,
+  "title": "Mata Dewa",
+  "artist_id": 105,
+  "release_date": {
+    "$date": "2014-01-20T00:00:00.000Z"
+  },
+  "songs": [
+    315
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 216,
+  "title": "This is Rihanna",
+  "artist_id": 106,
+  "release_date": {
+    "$date": "2012-01-20T00:00:00.000Z"
+  },
+  "songs": [
+    316
+  ],
+  "genre": "R&B"
+},
+{
+  "_id": 217,
+  "title": "Loud",
+  "artist_id": 106,
+  "release_date": {
+    "$date": "2016-01-20T00:00:00.000Z"
+  },
+  "songs": [
+    317
+  ],
+  "genre": "R&B"
+},
+{
+  "_id": 218,
+  "title": "Music of The Sun",
+  "artist_id": 106,
+  "release_date": {
+    "$date": "2012-01-20T00:00:00.000Z"
+  },
+  "songs": [
+    318
+  ],
+  "genre": "R&B"
+},
+{
+  "_id": 219,
+  "title": "Nocturno",
+  "artist_id": 107,
+  "release_date": {
+    "$date": "1990-03-21T00:00:00.000Z"
+  },
+  "songs": [
+    319
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 220,
+  "title": "Di Kota Mati",
+  "artist_id": 107,
+  "release_date": {
+    "$date": "1995-02-11T00:00:00.000Z"
+  },
+  "songs": [
+    320
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 221,
+  "title": "Di Kota Mati",
+  "artist_id": 107,
+  "release_date": {
+    "$date": "2012-06-07T00:00:00.000Z"
+  },
+  "songs": [
+    321
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 222,
+  "title": "V",
+  "artist_id": 108,
+  "release_date": {
+    "$date": "2021-01-20T00:00:00.000Z"
+  },
+  "songs": [
+    322
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 223,
+  "title": "Jordi",
+  "artist_id": 108,
+  "release_date": {
+    "$date": "2017-11-10T00:00:00.000Z"
+  },
+  "songs": [
+    323
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 224,
+  "title": "Overexposed",
+  "artist_id": 108,
+  "release_date": {
+    "$date": "2012-03-12T00:00:00.000Z"
+  },
+  "songs": [
+    324
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 225,
+  "title": "Keseimbangan",
+  "artist_id": 109,
+  "release_date": {
+    "$date": "2002-04-24T00:00:00.000Z"
+  },
+  "songs": [
+    325
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 226,
+  "title": "Selalu Ada",
+  "artist_id": 109,
+  "release_date": {
+    "$date": "2000-07-14T00:00:00.000Z"
+  },
+  "songs": [
+    326
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 227,
+  "title": "Yang Terbaik",
+  "artist_id": 109,
+  "release_date": {
+    "$date": "1994-05-25T00:00:00.000Z"
+  },
+  "songs": [
+    327
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 228,
+  "title": "In The Lonely Hour",
+  "artist_id": 110,
+  "release_date": {
+    "$date": "2014-03-09T00:00:00.000Z"
+  },
+  "songs": [
+    328
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 229,
+  "title": "The Thrill Of It All",
+  "artist_id": 110,
+  "release_date": {
+    "$date": "2014-10-09T00:00:00.000Z"
+  },
+  "songs": [
+    329
+  ],
+  "genre": "Pop"
+},
+{
+  "_id": 230,
+  "title": "Love Goes",
+  "artist_id": 110,
+  "release_date": {
+    "$date": "2017-12-19T00:00:00.000Z"
+  },
+  "songs": [
+    330
+  ],
+  "genre": "Pop"
+}]
